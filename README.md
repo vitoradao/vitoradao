@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! me chamo Vitor 👋
 
-<!--
-**vitoradao/vitoradao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Iniciando graduação - Engenharia de Computação - SATC
+- 💻 Formação - Técnico em Informática - CEDUP
+- 📩 Contate-me no Email: vitorsilvasilvaadao@gmail.com
+- 💬 Telefone: (48) 99696-1752
+- 📚 Estudando as seguinte Tecnologias:
+-  💡 JAVASCRIPT
+-  💡 HTML
+-  💡 CSS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
